@@ -21,7 +21,7 @@
         h1 {
             margin: 0;
             font-size: 3em;
-            color: #ff0000; /* Красный цвет для заголовка */
+            color: #ff5555; /* Красный цвет для заголовка */
         }
         .sidebar {
             position: fixed;
