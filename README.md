@@ -7,6 +7,11 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
     <style>
         body {
+            background-image: url('https://i.ytimg.com/vi/OSaEQtbmblI/maxresdefault.jpg');
+            background-size: cover;
+            background-attachment: fixed;
+	}
+        body {
             margin: 0;
             font-family: 'Arial', sans-serif;
             background: url('https://example.com/your-background-image.jpg') no-repeat center center fixed;
